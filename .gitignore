@@ -1,5 +1,9 @@
 cmake-build-*
 .idea
+/build
+
+/diit-prog-pr4.sublime-*
+
 
 # Prerequisites
 *.d
